@@ -23,7 +23,7 @@ Do you have 6000 APs running in 1 controller?
 
 In the image there are 3 wireless controllers managing thousands of APs.
 
-3 controllers + 20,000 APs = 3 licenses
+3 controllers + 17,000 APs = 3 licenses
 
 ### Firewalls
 
